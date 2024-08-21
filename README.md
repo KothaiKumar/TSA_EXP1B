@@ -49,13 +49,13 @@ plt.plot(x,y)
 
 ### OUTPUT:
 
-REGULAR DIFFERENCING:
+## REGULAR DIFFERENCING:
 ![image](https://github.com/user-attachments/assets/07b5b3b9-84cf-4bab-a724-cdab9659085e)
 
-SEASONAL ADJUSTMENT:
+## SEASONAL ADJUSTMENT:
 ![image](https://github.com/user-attachments/assets/e859db81-321b-43ab-9507-159b6d951488)
 
-LOG TRANSFORMATION:
+## LOG TRANSFORMATION:
 ![image](https://github.com/user-attachments/assets/c49e2561-098f-4b1c-973a-d7012a487039)
 
 ### RESULT:
