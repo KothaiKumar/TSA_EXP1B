@@ -1,3 +1,5 @@
+## Developed by: Kothai K
+## Register Number: 212222240051
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 # Date: 
 
